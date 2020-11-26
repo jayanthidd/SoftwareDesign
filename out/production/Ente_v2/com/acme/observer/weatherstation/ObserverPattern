@@ -1,0 +1,5 @@
+Subject and Observer.
+These interfaces will always have the same methods.
+    Observer will always have an update method or equivalent
+    Subject will always have a register observer, remove observer and notify observers
+Additional classes may implement additional logic
