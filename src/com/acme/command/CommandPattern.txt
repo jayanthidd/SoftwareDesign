@@ -1,0 +1,10 @@
+Behavioral Pattern
+
+Command class is an interface - order
+Concrete command classes - BuyStock and SellStock implementing the command interface
+    These concrete implementations will do actual command processing
+
+We have a request class - Stock
+
+
+

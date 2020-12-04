@@ -1,0 +1,8 @@
+Creational pattern
+
+An abstract class for the product and concrete implementations of the product
+An abstract class for the store, which has a product and concrete
+implementation of the store
+
+Dependency Inverstion Principle
+Dependency on abstraction and not on concrete classes
